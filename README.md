@@ -18,15 +18,16 @@ The Crypto Clustering project aims to predict if cryptocurrencies are affected b
 The project includes the following visualizations:
 
 1. Elbow curve for the original data.
-![Alt text](image-1.png)
+![Alt text](image.png)
 
 2. Elbow curve for the PCA data.
-![Alt text](image-3.png)
-
-3. Scatter plot of cryptocurrency clusters based on the original data.
 ![Alt text](image-2.png)
 
-4. ![Alt text](image-4.png)
+3. Scatter plot of cryptocurrency clusters based on the original data.
+![Alt text](image-1.png)
+
+4. Scatter plot of cryptocurrency clusters based on the PCA data.
+![Alt text](image-3.png)
 
 # Conclusion
 The project analyzes the impact of using fewer features on clustering the data using K-means. Comparing the clustering results of the original data and the PCA data helps to understand the effect of dimensionality reduction on the clustering process.
